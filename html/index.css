@@ -1,0 +1,16 @@
+h1{
+	text-align:center;
+}
+h2{
+	text-align:center;
+}
+hr{
+	margin:auto;
+	width:70%;
+}
+a:active,a:link,a:visited{
+	color:blue;
+}
+a:hover{
+	color:red;
+}
